@@ -1,0 +1,172 @@
+[
+  [
+    {
+      "id": "1",
+      "name": "Drink more water",
+      "streak": 0,
+      "lastCompleted": null
+    },
+    {
+      "id": "2",
+      "name": "Meditate daily",
+      "streak": 0,
+      "lastCompleted": null
+    },
+    {
+      "id": "3",
+      "name": "Walk 5,000 steps",
+      "streak": 0,
+      "lastCompleted": null
+    },
+    {
+      "id": "4",
+      "name": "Read 10 pages",
+      "streak": 0,
+      "lastCompleted": null
+    },
+    {
+      "id": "5",
+      "name": "Sleep before 11 PM",
+      "streak": 0,
+      "lastCompleted": null
+    },
+    {
+      "id": "6",
+      "name": "No sugar after 7 PM",
+      "streak": 0,
+      "lastCompleted": null
+    },
+    {
+      "id": "7",
+      "name": "Stretch for 5 minutes",
+      "streak": 0,
+      "lastCompleted": null
+    },
+    {
+      "id": "8",
+      "name": "Practice gratitude",
+      "streak": 0,
+      "lastCompleted": null
+    },
+    {
+      "id": "9",
+      "name": "Write a journal entry",
+      "streak": 0,
+      "lastCompleted": null
+    },
+    {
+      "id": "10",
+      "name": "Plan tomorrow’s tasks",
+      "streak": 0,
+      "lastCompleted": null
+    },
+    {
+      "id": "11",
+      "name": "Avoid phone after waking",
+      "streak": 0,
+      "lastCompleted": null
+    },
+    {
+      "id": "12",
+      "name": "10-minute workout",
+      "streak": 0,
+      "lastCompleted": null
+    },
+    {
+      "id": "13",
+      "name": "Eat one fruit a day",
+      "streak": 0,
+      "lastCompleted": null
+    },
+    {
+      "id": "14",
+      "name": "Study for 30 minutes",
+      "streak": 0,
+      "lastCompleted": null
+    },
+    {
+      "id": "15",
+      "name": "Limit screen time",
+      "streak": 0,
+      "lastCompleted": null
+    },
+    {
+      "id": "16",
+      "name": "Practice deep breathing",
+      "streak": 0,
+      "lastCompleted": null
+    },
+    {
+      "id": "17",
+      "name": "Clean workspace",
+      "streak": 0,
+      "lastCompleted": null
+    },
+    {
+      "id": "18",
+      "name": "Learn a new skill",
+      "streak": 0,
+      "lastCompleted": null
+    },
+    {
+      "id": "19",
+      "name": "Cook a homemade meal",
+      "streak": 0,
+      "lastCompleted": null
+    },
+    {
+      "id": "20",
+      "name": "Take vitamins",
+      "streak": 0,
+      "lastCompleted": null
+    },
+    {
+      "id": "21",
+      "name": "Go for a short walk",
+      "streak": 0,
+      "lastCompleted": null
+    },
+    {
+      "id": "22",
+      "name": "No caffeine after 4 PM",
+      "streak": 0,
+      "lastCompleted": null
+    },
+    {
+      "id": "23",
+      "name": "Track expenses",
+      "streak": 0,
+      "lastCompleted": null
+    },
+    {
+      "id": "24",
+      "name": "Practice a hobby",
+      "streak": 0,
+      "lastCompleted": null
+    },
+    {
+      "id": "25",
+      "name": "Listen to an educational podcast",
+      "streak": 0,
+      "lastCompleted": null
+    }
+  ],
+  {
+    "id": "2a40a324-1227-416c-9d42-4721c5518ee8",
+    "name": "drinking water",
+    "streak": 1,
+    "lastCompleted": "2025-11-22"
+  },
+  {
+    "id": "7a242d42-1412-4022-951f-e883d7835d8a",
+    "name": "cricket practice",
+    "streak": 0,
+    "lastCompleted": null
+  },
+  {
+    "id": "ff05c012-9db6-462c-aa41-a7f7d396526d",
+    "name": "water intake",
+    "streak": 1,
+    "lastCompleted": "2025-11-22"
+  }
+]
